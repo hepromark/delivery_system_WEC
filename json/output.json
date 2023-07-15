@@ -1,1 +1,762 @@
- 
+{
+    "Total Cost": 10010.800000000005,
+    "Truck_0": {
+        "Total_cost": 483.04,
+        "Monday": {
+            "Total_distance": 208,
+            "Total_cost": 183.04000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Tilbury",
+                "Distance": 208,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 2
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_1": {
+        "Total_cost": 324.64,
+        "Monday": {
+            "Total_distance": 28,
+            "Total_cost": 24.640000000000004,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Mississauga",
+                "Distance": 28,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 1
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_2": {
+        "Total_cost": 525.28,
+        "Monday": {
+            "Total_distance": 256,
+            "Total_cost": 225.28000000000003,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Cornwall",
+                "Distance": 256,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_3": {
+        "Total_cost": 525.28,
+        "Monday": {
+            "Total_distance": 256,
+            "Total_cost": 225.28000000000003,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Cornwall",
+                "Distance": 256,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 1
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_4": {
+        "Total_cost": 388.0,
+        "Monday": {
+            "Total_distance": 100,
+            "Total_cost": 88.00000000000001,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_5": {
+        "Total_cost": 388.0,
+        "Monday": {
+            "Total_distance": 100,
+            "Total_cost": 88.00000000000001,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_6": {
+        "Total_cost": 388.0,
+        "Monday": {
+            "Total_distance": 100,
+            "Total_cost": 88.00000000000001,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "London",
+                "Distance": 100,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 2
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_7": {
+        "Total_cost": 531.44,
+        "Monday": {
+            "Total_distance": 263,
+            "Total_cost": 231.44000000000003,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Goderich",
+                "End_destination": "Windsor",
+                "Distance": 263,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_8": {
+        "Total_cost": 412.64,
+        "Monday": {
+            "Total_distance": 128,
+            "Total_cost": 112.64000000000001,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_9": {
+        "Total_cost": 412.64,
+        "Monday": {
+            "Total_distance": 128,
+            "Total_cost": 112.64000000000001,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_10": {
+        "Total_cost": 412.64,
+        "Monday": {
+            "Total_distance": 128,
+            "Total_cost": 112.64000000000001,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Niagara_Falls",
+                "Distance": 128,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 2
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_11": {
+        "Total_cost": 398.56,
+        "Monday": {
+            "Total_distance": 112,
+            "Total_cost": 98.56000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_12": {
+        "Total_cost": 398.56,
+        "Monday": {
+            "Total_distance": 112,
+            "Total_cost": 98.56000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_13": {
+        "Total_cost": 398.56,
+        "Monday": {
+            "Total_distance": 112,
+            "Total_cost": 98.56000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_14": {
+        "Total_cost": 398.56,
+        "Monday": {
+            "Total_distance": 112,
+            "Total_cost": 98.56000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Barrie",
+                "Distance": 112,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 2
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_15": {
+        "Total_cost": 373.92,
+        "Monday": {
+            "Total_distance": 84,
+            "Total_cost": 73.92000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Kingston",
+                "Distance": 84,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_16": {
+        "Total_cost": 373.92,
+        "Monday": {
+            "Total_distance": 84,
+            "Total_cost": 73.92000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Kingston",
+                "Distance": 84,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_17": {
+        "Total_cost": 373.92,
+        "Monday": {
+            "Total_distance": 84,
+            "Total_cost": 73.92000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Kingston",
+                "Distance": 84,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_18": {
+        "Total_cost": 373.92,
+        "Monday": {
+            "Total_distance": 84,
+            "Total_cost": 73.92000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Picton",
+                "End_destination": "Kingston",
+                "Distance": 84,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 2
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_19": {
+        "Total_cost": 505.04,
+        "Monday": {
+            "Total_distance": 233,
+            "Total_cost": 205.04000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_20": {
+        "Total_cost": 505.04,
+        "Monday": {
+            "Total_distance": 233,
+            "Total_cost": 205.04000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_21": {
+        "Total_cost": 505.04,
+        "Monday": {
+            "Total_distance": 233,
+            "Total_cost": 205.04000000000002,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "Huntsville",
+                "Distance": 233,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 3
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    },
+    "Truck_22": {
+        "Total_cost": 614.1600000000001,
+        "Monday": {
+            "Total_distance": 357,
+            "Total_cost": 314.16,
+            "Delivery_1": {
+                "Start_time": 0,
+                "End_time": 0,
+                "Start_destination": "Toronto",
+                "End_destination": "North_Bay",
+                "Distance": 357,
+                "Delivery_type": "Delivery",
+                "Start_quantity": 5,
+                "End_quantity": 0
+            }
+        },
+        "Tuesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Wednesday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Thursday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        },
+        "Friday": {
+            "Total_distance": 0,
+            "Total_cost": 0
+        }
+    }
+}
